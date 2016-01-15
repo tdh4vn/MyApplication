@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="action_settings">Setting is changed</string>
+    <string name="action_settings">Set</string>
 </resources>
